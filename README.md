@@ -2,10 +2,10 @@
 
 
 
-My Name is *Benjamin Rodenstein*, I am currently participating in the Bootcamp **Neue Fische** to deepen my skills in Web Development.
+My Name is *Benjamin Rodenstein*, I am currently participating in the bootcamp **Neue Fische** to deepen my skills in Web Development.
 
 
-I already got the Certificates for 
+I already achieved the Certificates for 
 
 - *Responsive Web Design*
 - *Javascript Data Structures and Algorithms* 
