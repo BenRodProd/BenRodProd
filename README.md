@@ -10,16 +10,21 @@ I already got the Certificates for
 - *Responsive Web Design*
 - *Javascript Data Structures and Algorithms* 
 
-from **freeCodeCamp.org** and the 
+from **freeCodeCamp.org** 
+
+and
 
 - *JAVASCRIPT - SYNTAX & SEMANTIK*
 - *WEBDEVELOPMENT FRONTEND* 
 
 Certificats from **CodePirate**.
 
+---
 
+In addition, I have a lot of years of experience in music production, video editing, 3D modelling and social media managment.
 
-In addition, I have a lot of years of experience in music production, video editing and social media managment.
+---
+
 
 
 
