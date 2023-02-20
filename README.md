@@ -15,11 +15,11 @@ from **freeCodeCamp.org** and the
 - *JAVASCRIPT - SYNTAX & SEMANTIK*
 - *WEBDEVELOPMENT FRONTEND* 
 
-Certificat from **CodePirate**.
+Certificats from **CodePirate**.
 
 
 
-In addition, I have a lot of years of experience of music production and video editing.
+In addition, I have a lot of years of experience in music production, video editing and social media managment.
 
 
 
