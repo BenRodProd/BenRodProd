@@ -19,6 +19,11 @@ and
 
 Certificats from **CodePirate**.
 
+Languages:
+- German (native)
+- English (fluent)
+- french (basic)
+
 ---
 
 In addition, I have a lot of years of experience in music production, video editing, 3D modelling and social media managment.
