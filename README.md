@@ -4,6 +4,7 @@
 
 My Name is *Benjamin Rodenstein*, I am currently participating in the bootcamp **Neue Fische** to deepen my skills in Web Development.
 
+- Here I learned React, Next, Styled Components, Agile Programming, usage of Kanban Boards and much more!
 
 I already achieved the Certificates for 
 
