@@ -35,4 +35,5 @@ In addition, I have a lot of years of experience in music production, video edit
 
 
 How to reach me: BenRodProd@gmail.com
+or on [linkedIN](https://www.linkedin.com/in/benjamin-rodenstein-26aabb26a/)
 
