@@ -31,6 +31,11 @@ In addition, I have a lot of years of experience in music production, video edit
 
 ---
 
+## Projects
+
+### TRASHPLAYER
+
+[Trashplayer](https://benrodprod.github.io/TrashPlayer/)
 
 
 
