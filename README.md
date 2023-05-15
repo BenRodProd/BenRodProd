@@ -39,21 +39,24 @@ In addition, I have a lot of years of experience in music production, video edit
 
 ## Projects
 
-### MINDBLADE - The Odyssey
+#### MINDBLADE - The Odyssey
 
 [CAPSTONE-PROJECT of Neue Fische Bootcamp - RPG Vocabulary Trainer](https://capstone-project-kohl-seven.vercel.app/)
 
-### TRASHPLAYER
+#### TRASHPLAYER
 
 [Customized Music Player](https://benrodprod.github.io/TrashPlayer/)
 
-### Profile Page
+#### Profile Page
 
 [My first Playground for HTML, CSS and Javascipt](https://benrodprod.github.io/Profile_Page/html/index.html)
 
-### ISS Tracker
+#### ISS Tracker
 
 [Live Tracking of the International Space Station](https://iss-tracker-five.vercel.app/)
+
+---
+
 ## Contact
 
 How to reach me: BenRodProd@gmail.com
