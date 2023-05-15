@@ -41,7 +41,7 @@ In addition, I have a lot of years of experience in music production, video edit
 
 ### TRASHPLAYER
 
-[Trashplayer](https://benrodprod.github.io/TrashPlayer/)
+[Customized Music Player](https://benrodprod.github.io/TrashPlayer/)
 
 ### Profile Page
 
