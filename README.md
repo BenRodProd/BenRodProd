@@ -39,6 +39,10 @@ In addition, I have a lot of years of experience in music production, video edit
 
 ## Projects
 
+### MINDBLADE - The Odyssey
+
+[CAPSTONE-PROJECT of Neue Fische Bootcamp - RPG Vocabulary Trainer](https://capstone-project-kohl-seven.vercel.app/)
+
 ### TRASHPLAYER
 
 [Customized Music Player](https://benrodprod.github.io/TrashPlayer/)
