@@ -2,7 +2,8 @@
 
 
 
-My Name is *Benjamin Rodenstein*, I am currently participating in the bootcamp **Neue Fische** to deepen my skills in Web Development.
+My Name is *Benjamin Rodenstein*, I recently finished the bootcamp **Neue Fische** and deepened my skills in Web Development.
+
 Here I learned 
 - React
 - Next
