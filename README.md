@@ -44,17 +44,25 @@ In addition, I have a lot of years of experience in music production, video edit
 
 [CAPSTONE-PROJECT of Neue Fische Bootcamp - RPG Vocabulary Trainer](https://capstone-project-kohl-seven.vercel.app/)
 
+NEXT || REACT || JAVASCRIPT || STYLED-COMPONENTS || MONGODB || MONGOOSE || HOWLER || SCRUM || KANBAN
+
 #### TRASHPLAYER
 
 [Customized Music Player](https://benrodprod.github.io/TrashPlayer/)
+
+REACT || JAVASCRIPT
 
 #### Profile Page
 
 [My first Playground for HTML, CSS and Javascipt](https://benrodprod.github.io/Profile_Page/html/index.html)
 
+|| JAVASCRIPT || HTML || CSS
+
 #### ISS Tracker
 
 [Live Tracking of the International Space Station](https://iss-tracker-five.vercel.app/)
+
+NEXT || REACT || JAVASCRIPT
 
 ---
 
