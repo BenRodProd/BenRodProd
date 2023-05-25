@@ -20,6 +20,10 @@ I already achieved the Certificates for
 
 from **freeCodeCamp.org** 
 
+- *PHP for Beginners*
+
+from **Great Learning**
+
 and
 
 - *JAVASCRIPT - SYNTAX & SEMANTIK*
