@@ -56,6 +56,14 @@ NEXT || REACT || JAVASCRIPT || STYLED-COMPONENTS || MONGODB || MONGOOSE || HOWLE
 
 REACT || JAVASCRIPT
 
+#### INNERGARDEN
+
+[Daily Habbit Tracker, Stick to Habbits, Grow the Garden](https://innergarden.vercel.app/)
+
+REACT || NEXT || STYLED-COMPONENTS || API FETCHING || LOCALSTORAGE || JAVASCRIPT
+https://innergarden.vercel.app/
+
+
 #### Profile Page
 
 [My first Playground for HTML, CSS and Javascipt](https://benrodprod.github.io/Profile_Page/html/index.html)
