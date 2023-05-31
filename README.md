@@ -83,3 +83,7 @@ NEXT || REACT || JAVASCRIPT
 How to reach me: BenRodProd@gmail.com
 or on [linkedIN](https://www.linkedin.com/in/benjamin-rodenstein-26aabb26a/)
 
+## Certificate
+
+![Neue Fische Bootcamp](https://github.com/BenRodProd/BenRodProd/blob/BenRodProd/certificate-Benjamin_Rodenstein-Page1.jpg)
+![Neue Fische Bootcamp](https://github.com/BenRodProd/BenRodProd/blob/BenRodProd/certificate-Benjamin_Rodenstein-Page2.jpg)
