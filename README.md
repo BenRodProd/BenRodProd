@@ -63,6 +63,11 @@ REACT || JAVASCRIPT
 REACT || NEXT || STYLED-COMPONENTS || API FETCHING || LOCALSTORAGE || JAVASCRIPT
 https://innergarden.vercel.app/
 
+#### Profile Room
+
+[My first ThreeJs App](https://profile-room.vercel.app/)
+
+NEXT | REACT | THREEJS | FIBER | DREI
 
 #### Profile Page
 
