@@ -50,11 +50,15 @@ In addition, I have a lot of years of experience in music production, video edit
 
 NEXT || REACT || JAVASCRIPT || STYLED-COMPONENTS || MONGODB || MONGOOSE || HOWLER || SCRUM || KANBAN
 
+---
+
 #### TRASHPLAYER
 
 [Customized Music Player](https://benrodprod.github.io/TrashPlayer/)
 
 REACT || JAVASCRIPT
+
+---
 
 #### INNERGARDEN
 
@@ -63,11 +67,15 @@ REACT || JAVASCRIPT
 REACT || NEXT || STYLED-COMPONENTS || API FETCHING || LOCALSTORAGE || JAVASCRIPT
 https://innergarden.vercel.app/
 
+---
+
 #### Casual Games
 
 [TicTacToe, Memory](https://casual-games.vercel.app/)
 
 NEXT | REACT | JAVASCRIPT
+
+---
 
 #### Profile Room
 
@@ -75,11 +83,15 @@ NEXT | REACT | JAVASCRIPT
 
 NEXT | REACT | THREEJS | FIBER | DREI
 
+---
+
 #### Profile Page
 
 [My first Playground for HTML, CSS and Javascipt](https://benrodprod.github.io/Profile_Page/html/index.html)
 
 || JAVASCRIPT || HTML || CSS
+
+---
 
 #### ISS Tracker
 
