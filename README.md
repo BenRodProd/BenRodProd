@@ -63,6 +63,12 @@ REACT || JAVASCRIPT
 REACT || NEXT || STYLED-COMPONENTS || API FETCHING || LOCALSTORAGE || JAVASCRIPT
 https://innergarden.vercel.app/
 
+#### Casual Games
+
+[TicTacToe, Memory](https://casual-games.vercel.app/)
+
+NEXT | REACT | JAVASCRIPT
+
 #### Profile Room
 
 [My first ThreeJs App](https://profile-room.vercel.app/)
