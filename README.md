@@ -24,6 +24,10 @@ from **freeCodeCamp.org**
 
 from **Great Learning**
 
+- *TypeScript and React*
+
+from **Coursera**
+
 and
 
 - *JAVASCRIPT - SYNTAX & SEMANTIK*
