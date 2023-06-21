@@ -56,6 +56,14 @@ NEXT || REACT || JAVASCRIPT || STYLED-COMPONENTS || MONGODB || MONGOOSE || HOWLE
 
 ---
 
+### STAR CENTER
+
+[Universe Facts, Nasa API, ISS](https://star-center.vercel.app/)
+
+NEXT || REACT || THREEJS || API FETCHING
+
+---
+
 #### TRASHPLAYER
 
 [Customized Music Player](https://benrodprod.github.io/TrashPlayer/)
