@@ -48,6 +48,12 @@ In addition, I have a lot of years of experience in music production, video edit
 
 ## Projects
 
+#### AppLy Track
+
+[Keep track of your Job applications](https://benrodprod.github.io/AppLyTrack/)
+
+REACT | FIREBASE | GOOGLE AUTH | STYLED-COMPONENTS
+
 #### MINDBLADE - The Odyssey
 
 [CAPSTONE-PROJECT of Neue Fische Bootcamp - RPG Vocabulary Trainer](https://capstone-project-kohl-seven.vercel.app/)
