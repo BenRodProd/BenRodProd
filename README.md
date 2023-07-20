@@ -15,6 +15,10 @@ Here I learned
 
 I already achieved the Certificates for 
 
+- *Advanced React*
+
+from **META**
+
 - *Responsive Web Design*
 - *Javascript Data Structures and Algorithms* 
 
