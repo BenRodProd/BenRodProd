@@ -60,13 +60,14 @@ REACT | FIREBASE | GOOGLE AUTH | STYLED-COMPONENTS
 
 ---
 
-#### MINDBLADE - The Odyssey
+#### Weather To Do
 
-[CAPSTONE-PROJECT of Neue Fische Bootcamp - RPG Vocabulary Trainer](https://capstone-project-kohl-seven.vercel.app/)
+[Let the app give you tasks depending on weather and time of day]([https://benrodprod.github.io/AppLyTrack/](https://weather-to-do.vercel.app/))
 
-NEXT || REACT || JAVASCRIPT || STYLED-COMPONENTS || MONGODB || MONGOOSE || HOWLER || SCRUM || KANBAN
+NEXT | REACT | FIREBASE | GOOGLE AUTH | STYLED-COMPONENTS | WEATHER API
 
 ---
+
 
 ### STAR CENTER
 
@@ -76,11 +77,27 @@ NEXT || REACT || THREEJS || API FETCHING
 
 ---
 
+#### Casual Games
+
+[TicTacToe, Memory](https://casual-games.vercel.app/)
+
+NEXT | REACT | JAVASCRIPT
+
+---
+
 #### TRASHPLAYER
 
 [Customized Music Player](https://benrodprod.github.io/TrashPlayer/)
 
 REACT || JAVASCRIPT
+
+---
+
+#### MINDBLADE - The Odyssey
+
+[CAPSTONE-PROJECT of Neue Fische Bootcamp - RPG Vocabulary Trainer](https://capstone-project-kohl-seven.vercel.app/)
+
+NEXT || REACT || JAVASCRIPT || STYLED-COMPONENTS || MONGODB || MONGOOSE || HOWLER || SCRUM || KANBAN
 
 ---
 
@@ -93,13 +110,7 @@ https://innergarden.vercel.app/
 
 ---
 
-#### Casual Games
 
-[TicTacToe, Memory](https://casual-games.vercel.app/)
-
-NEXT | REACT | JAVASCRIPT
-
----
 
 #### Profile Room
 
