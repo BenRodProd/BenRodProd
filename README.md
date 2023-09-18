@@ -62,7 +62,7 @@ REACT | FIREBASE | GOOGLE AUTH | STYLED-COMPONENTS
 
 #### Weather To Do
 
-[Let this app give you tasks depending on weather and time of day](https://benrodprod.github.io/AppLyTrack/](https://weather-to-do.vercel.app/)
+[Let this app give you tasks depending on weather and time of day](https://weather-to-do.vercel.app/)
 
 NEXT | REACT | FIREBASE | GOOGLE AUTH | STYLED-COMPONENTS | WEATHER API
 
