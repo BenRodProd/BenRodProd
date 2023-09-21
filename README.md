@@ -110,7 +110,7 @@ NEXT || REACT || JAVASCRIPT || STYLED-COMPONENTS || MONGODB || MONGOOSE || HOWLE
 [Daily Habbit Tracker, Stick to Habbits, Grow the Garden](https://innergarden.vercel.app/)
 
 REACT || NEXT || STYLED-COMPONENTS || API FETCHING || LOCALSTORAGE || JAVASCRIPT
-https://innergarden.vercel.app/
+
 
 ---
 
