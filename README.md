@@ -56,6 +56,14 @@ In addition, I have a lot of years of experience in music production, video edit
 
 ## Projects
 
+#### Kitty Chat
+
+[Get in open Chat Rooms and talk with your friends and Kitty, the cat](https://chitty-chat-indol.vercel.app/)
+
+NEXT | REACT | FIREBASE | GOOGLE AUTH | STYLED-COMPONENTS | THREEJS
+
+---
+
 #### AppLy Track
 
 [Keep track of your Job applications](https://benrodprod.github.io/AppLyTrack/)
