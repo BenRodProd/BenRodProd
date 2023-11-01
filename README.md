@@ -97,33 +97,6 @@ NEXT | REACT | JAVASCRIPT
 
 ---
 
-#### TRASHPLAYER
-
-[Customized Music Player](https://benrodprod.github.io/TrashPlayer/)
-
-REACT || JAVASCRIPT
-
----
-
-#### MINDBLADE - The Odyssey
-
-[CAPSTONE-PROJECT of Neue Fische Bootcamp - RPG Vocabulary Trainer](https://capstone-project-kohl-seven.vercel.app/)
-
-NEXT || REACT || JAVASCRIPT || STYLED-COMPONENTS || MONGODB || MONGOOSE || HOWLER || SCRUM || KANBAN
-
----
-
-#### INNERGARDEN
-
-[Daily Habbit Tracker, Stick to Habbits, Grow the Garden](https://innergarden.vercel.app/)
-
-REACT || NEXT || STYLED-COMPONENTS || API FETCHING || LOCALSTORAGE || JAVASCRIPT
-
-
----
-
-
-
 #### Profile Room
 
 [My first ThreeJs App](https://profile-room.vercel.app/)
